@@ -1,1 +1,1 @@
-FROM celery-exporter:lastest
+FROM grafana/celery-exporter:latest
